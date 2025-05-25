@@ -40,14 +40,14 @@ The system enables quick and accurate medicine identification using **Convolutio
 
 ## 📁 Folder Structure
 
-bash
+```bash
 ├── app.py                          # Main Flask application
 ├── dataset/                        # Image dataset used for training
 ├── model/                          # Saved trained CNN model
 ├── medicine_classification_doc.pdf# Project documentation
 ├── epics_poster[1].docx           # Conference poster
 └── README.md                      # This file
-
+```
 ## 📊 Results
 
 - ✅ **Accuracy**: 96.22%
