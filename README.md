@@ -40,7 +40,7 @@ The system enables quick and accurate medicine identification using **Convolutio
 
 ## 📁 Folder Structure
 
-```bash
+
 ├── app.py                          # Main Flask application
 ├── dataset/                        # Image dataset used for training
 ├── model/                          # Saved trained CNN model
